@@ -4,6 +4,8 @@
 
 # es5-ext
 
+This fork of `es5-ext` is created to remove the code that is being detected as a virus.
+
 ## ECMAScript 5 extensions
 
 ### (with respect to ECMAScript 6 standard)
